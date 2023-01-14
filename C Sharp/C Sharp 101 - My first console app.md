@@ -11,7 +11,7 @@ I will be using Visual Studio for my explanations, as that is the IDE I use.
 ## Set up
 To create a console app project, Open Visual Studio and press "Create a new project" and then look for "Console App". You might also see "Console App (.NET Framework)", but that uses an older version of .NET that only works on windows. Now you can give your app a name and you can select the version of .NET you want to use. I recommend to use the latest available so you can toy around with all the features. Finally, hit Create.
 
-TODO: image here with fresh project
+![image](https://user-images.githubusercontent.com/22686676/212475172-1234ead7-37bb-41a9-a173-020eb1baa065.png)
 
 Let's dissect what we are seeing here,
 ```cs
@@ -24,4 +24,4 @@ Console.WriteLine("Hello, World!");
 In the next lesson i'll be talking a bit about types.
 
 ## Exercise:
-Try to mess around with the console program to have it display different messages. 
+Try to mess around with the console program to have it display different messages. You can also look at prociding it numbers instead, both as numbers and as strings.
