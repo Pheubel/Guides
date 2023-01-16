@@ -18,7 +18,8 @@ In C# every variable needs to specify what type they are. This way you can preve
 
 To assign values to variables, you use literals. You don't have to remember much about them, as they are merely how the language detects the values you want to assign to your variables.
 
-[![Example 1]()](https://try.dot.net/?bufferId=cs102S1.cs&fromGist=de48608070e9da1081f7cf5daaa0499e)
+[![Example 1](https://user-images.githubusercontent.com/22686676/212577007-b8b55fa6-1c8a-404a-b9bd-e3f4dc4bee51.png)](https://try.dot.net/?bufferId=cs102S1.cs&fromGist=de48608070e9da1081f7cf5daaa0499e)\
+<sub>(you can click on the image to try it out)</sub>
 
 Outside of built-in types, C# allows you to create your own types with classes, they use the builtin types to form a new custom type. We'll be looking at them soon.
 
@@ -51,4 +52,5 @@ As for this exercise there are not set answers, I recommend that you share your 
 ## Var
 You might have seen `var` in other people's code, `var` acts as a stand-in for a type while assigning a variable. it can be useful to save on keystrokes, or when having the variable's type can already be deduced on the right side of the assignment. It is important to note that variables with `var` cannot change type, if you assign an `int` to it, you cannot assign a `string` after.
 
-[![var example]()](https://try.dot.net/?bufferId=cs102S2.cs&fromGist=09107255c5fa5c26a7675472fbdfdd37)
+[![var example](https://user-images.githubusercontent.com/22686676/212577148-c7398425-7d9f-4300-8ad5-2ca23ce4a35c.png)](https://try.dot.net/?bufferId=cs102S2.cs&fromGist=09107255c5fa5c26a7675472fbdfdd37)\
+<sub>(you can click on the image to try it out)</sub>
