@@ -56,6 +56,7 @@ Your exercise will be to edit the `.gitignore` file in order to satisfy certain 
 4. `IgnorePractice/Users` also has `ReadMe.md`, this file needs to stay included.
 
 If you did it correctly your change tracker in Github Desktop will look something like this:
-TODO: image
+
+![image](https://user-images.githubusercontent.com/22686676/212795146-17faeeaa-195f-49c4-8e37-cda5ed35f1eb.png)
 
 There are many roads leading to Rome, for this exercise you can use different tricks to satisfy all conditions and thus there is more than just one right answer. An implementation that satisfies all conditions can be found [here](https://gist.github.com/Pheubel/6bb2747738a2268dbd23fb455c678f8f).
